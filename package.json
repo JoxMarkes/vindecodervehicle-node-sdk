@@ -22,7 +22,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JoxMarkes/vindecodervehicle-node-sdk.git"
+    "url": "git+https://github.com/JoxMarkes/vindecodervehicle-node-sdk.git"
   },
   "homepage": "https://vindecodervehicle.com",
   "bugs": {
