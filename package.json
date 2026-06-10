@@ -28,6 +28,10 @@
   "bugs": {
     "url": "https://github.com/JoxMarkes/vindecodervehicle-node-sdk/issues"
   },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "engines": {
     "node": ">=18"
   },
